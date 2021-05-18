@@ -1,0 +1,44 @@
+<html>
+<head></head>
+<title></title>
+<body bgcolor="pink">
+<center><h1><big>TABLE</h1></center></big>
+<center><table border="1" height="600" width="1000">
+<tr>
+<td>As the name suggests, fast foods are food items that are quickly made, quickly served and quickly eaten. Life today has become fast, and the changes in the lifestyle of people have gotten them addicted to food items that can be readily made.<br> Fast food is the name coined for food items that are either available pre-cooked or can be cooked in a lesser time than regular food. People find it desirable and convenient to eat such food items as they please their taste buds more than regular food. 
+</td>
+<td><img src="food.jpg" img width="280" img height="150"></td>
+<td><ol>
+<li>PUNE</li>
+<li>BHOPAL</li>
+<li>VIDISHA</li>
+<li>GOA</li>
+<li>SAGAR</li>
+</ol></td>
+</tr>
+<tr>
+<td><img src="food.jpg" img width="280" img height="150"></td>
+<td>
+<video controls width="280" height="150">
+<source src="bappa.MP4" type="video/MP4">
+</video></td>
+<td>
+<audio controls>
+<source src="song.mp3" type="audio/mp3">
+</audio></td>
+</tr>
+<tr>
+<td>
+<center><a href="https://instagram.com/sanjanasharma6619?igshid=1wcwg45kkzgdk"> CLICK HERE</a></td></center>
+<td>
+<audio controls>
+<source src="song.mp3" type="audio/mp3">
+</audio></td></td>
+<td>
+<video controls width="280" height="150">
+<source src="bappa.MP4" type="video/MP4">
+</video></td>
+</tr>
+</table></center>
+</body>
+</html>

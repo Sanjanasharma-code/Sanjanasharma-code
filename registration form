@@ -1,0 +1,106 @@
+<html>
+<head></head>
+<title>form</title>
+<body background="LAPTOP.JPG">
+<h1><CENTER> <BIG> STUDENT REGISTRATION FORM</H2><BR><BR><BR><BR><BR></CENTER></BIG>
+<center><table border="1" height="1000" width="800" color="black">
+<tr bgcolor="yellow">
+<th colspan="2"><font size="7">sign up</th></font>
+</tr>
+<tr bgcolor="black">
+<th><font color="yellow" size="5">NAME:-</th></font>
+<th><input type="text" size="40" placeholder="ENTER YOUR NAME"/></th>
+</tr>
+<tr bgcolor="black">
+<th><font color="yellow" size="5">PHONE NUMBER:-</th></font>
+<th><input type="text" size="40" maxlength="10" placeholder="10 DIGIT NUMBER"/></th>
+</tr>
+<tr bgcolor="black">
+<th><font color="yellow" size="5">ADDRESS:-</th></font>
+<th><textarea cols="50" rows="3" value="address">  
+</textarea></th> 
+<tr bgcolor="black">
+<th><font color="yellow" size="5">CITY:-</font></th>
+<th><input type="TEXT" name="pass" size="40"></th>
+</tr>
+<tr bgcolor="black">
+<th><font color="yellow" size="5">PIN CODE:-</font></th>
+<th><input type="TEXT" name="pass" size="40"></th>
+</tr>
+<tr bgcolor="black">
+<th><font color="yellow" size="5">STATE:-</font></th>
+<th><select><option>DELHI</potion>
+<option> PUNE</option>
+<option> BHOPAL</option>
+<option> GOA</option>
+<option> DELHI</option></selection></th>
+</tr>
+<tr bgcolor="black">
+<th><font color="yellow" size="5">COUNTRY:-</font></th>
+<th><input type="TEXT" name="pass" placeholder="INDIA" size="40"></th>
+</tr>
+<tr bgcolor="black">
+<th><font color="yellow" size="5">EMAIL ID:-</font></th>
+<th><input type="email" id="mail" name="email" size="40"></th>
+</tr>
+<tr bgcolor="black">
+<th><font color="yellow" size="5">PASSWORD:-</font></th>
+<th><input type="password" name="pass" size="40"></th>
+</tr>
+<tr bgcolor="black">
+<th><font color="yellow" size="5">RE CORRECT PASS:-</font></th>
+<th><input type="password" name="pass" size="40"></th>
+</tr>
+
+<tr bgcolor="black">
+<th><font color="yellow" size="5">DATE OF BIRTH:-</font></th>
+<th><input type="date" name="dob" size="40"/></th>
+</tr>
+<tr bgcolor="black">
+<th><font color="yellow" size="5">PHOTO:-</font></th>
+<th><input type="file" name="file" placeholder="upload photo here" size="50"/></th>
+</tr>
+</tr>
+<tr bgcolor="black">
+<th><font color="yellow" size="5">GENDER:-</th></font>
+<th><input type="radio"><font color="yellow" size="5">female</font><input type="radio"><font color="yellow" size="5">male</th></font>
+</tr>
+<tr bgcolor="black">
+<th><font color="yellow" size="5">HOBBIES:-</font></th>
+<th><font color="yellow" size="5" >DRWANING<input type="checkbox" name="hobbies">
+<font color="yellow" size="5"> DANCING<input type="checkbox" name="hobbies">
+<font color="yellow" size="5" >SINGING<input type="checkbox" name="hobbies">
+
+</tr>
+
+<tr bgcolor="black">
+<th><font color="yellow" size="5">QUALIFICATION:-</font>
+<td>
+<table border="5" height="80" width="200" bgcolor="black" >
+<tr bgcolor="black">
+<th><font color="yellow" size="5">SL.NO</th></font>
+<th><font color="yellow" size="5">EXAMINATION</th></font>
+<th><font color="yellow" size="5">BOARD</th></font>
+<th><font color="yellow" size="5">PERCENTAGE</th></font>
+</tr>
+<tr>
+<td><font color="yellow" size="5">1</td></font>
+<td><font color="yellow" size="5">class 10</td></font>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><font color="yellow" size="5">2</td></font>
+<td><font color="yellow" size="5">class 12</td></font>
+<td></td>
+<td></td>
+</tr>
+</table>
+<tr bgcolor="yellow" height="80">
+<th colspan="2">
+<input type="submit"name="submit" size="100"/>
+<input type="reset" name="reset" size="20"/></th>
+</tr>
+
+</body>
+</html>
